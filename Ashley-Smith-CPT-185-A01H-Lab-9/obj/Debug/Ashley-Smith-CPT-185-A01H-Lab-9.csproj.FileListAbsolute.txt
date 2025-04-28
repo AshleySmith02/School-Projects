@@ -1,0 +1,12 @@
+C:\Users\princ\source\repos\Ashley-Smith-CPT-185-A01H-Lab-9\bin\Debug\Ashley-Smith-CPT-185-A01H-Lab-9.exe.config
+C:\Users\princ\source\repos\Ashley-Smith-CPT-185-A01H-Lab-9\bin\Debug\Ashley-Smith-CPT-185-A01H-Lab-9.exe
+C:\Users\princ\source\repos\Ashley-Smith-CPT-185-A01H-Lab-9\bin\Debug\Ashley-Smith-CPT-185-A01H-Lab-9.pdb
+C:\Users\princ\source\repos\Ashley-Smith-CPT-185-A01H-Lab-9\obj\Debug\Ashley-Smith-CPT-185-A01H-Lab-9.csproj.AssemblyReference.cache
+C:\Users\princ\source\repos\Ashley-Smith-CPT-185-A01H-Lab-9\obj\Debug\Ashley_Smith_CPT_185_A01H_Lab_9.ChargesForm.resources
+C:\Users\princ\source\repos\Ashley-Smith-CPT-185-A01H-Lab-9\obj\Debug\Ashley_Smith_CPT_185_A01H_Lab_9.MainForm.resources
+C:\Users\princ\source\repos\Ashley-Smith-CPT-185-A01H-Lab-9\obj\Debug\Ashley_Smith_CPT_185_A01H_Lab_9.Properties.Resources.resources
+C:\Users\princ\source\repos\Ashley-Smith-CPT-185-A01H-Lab-9\obj\Debug\Ashley-Smith-CPT-185-A01H-Lab-9.csproj.GenerateResource.cache
+C:\Users\princ\source\repos\Ashley-Smith-CPT-185-A01H-Lab-9\obj\Debug\Ashley-Smith-CPT-185-A01H-Lab-9.csproj.CoreCompileInputs.cache
+C:\Users\princ\source\repos\Ashley-Smith-CPT-185-A01H-Lab-9\obj\Debug\Ashley-Smith-CPT-185-A01H-Lab-9.exe
+C:\Users\princ\source\repos\Ashley-Smith-CPT-185-A01H-Lab-9\obj\Debug\Ashley-Smith-CPT-185-A01H-Lab-9.pdb
+C:\Users\princ\source\repos\Ashley-Smith-CPT-185-A01H-Lab-9\obj\Debug\Ashley_Smith_CPT_185_A01H_Lab_9.AboutForm.resources
